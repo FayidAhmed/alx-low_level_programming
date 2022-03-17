@@ -11,7 +11,10 @@ void print_numbers(void)
 
 	while (n <= 9)
 	{
-		_putchar('0' + n);
+		if (n != 2 && n != 4)
+		{
+			_putchar('0' + n);
+		}
 		n++;
 	}
 	_putchar('\n');
