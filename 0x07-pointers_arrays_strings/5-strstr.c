@@ -7,6 +7,12 @@
 
 char *_strstr(char *haystack, char *needle)
 {
+	/**
+	 *  we initialize a helping variable
+	 *  to assist in returning one of
+	 *  our parameters pointers haystack
+	 */
+
 	char *h, *n;
 
 	while (*haystack != '\0')
