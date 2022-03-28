@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * print_chessboard - prints an 8x8 chessboard
  * @a: chessboard representation
