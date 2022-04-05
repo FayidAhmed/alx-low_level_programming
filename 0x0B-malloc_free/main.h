@@ -1,5 +1,5 @@
-#ifndef FILE_HOLBERTON
-#define FILE_HOLBERTON
+#ifndef FILE_MAIN
+#define FILE_MAIN
 
 #include <stdlib.h>
 #include <stdio.h>
